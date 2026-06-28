@@ -2,7 +2,7 @@
 
 A fast, responsive web application for reading and searching the Bible in English and Chinese.
 
-**🌐 Try it now: [https://fastbible.github.io/fastbible/](https://fastbible.github.io/fastbible/)**
+**🌐 Try it now: [https://fastbible.github.io](https://fastbible.github.io)**
 
 ## Features
 
